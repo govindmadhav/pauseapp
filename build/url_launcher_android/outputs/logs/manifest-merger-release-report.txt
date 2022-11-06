@@ -27,3 +27,4 @@ INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\url_launcher_and
 		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\url_launcher_android-6.0.17\android\src\main\AndroidManifest.xml
 		ADDED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\url_launcher_android-6.0.17\android\src\main\AndroidManifest.xml
 		INJECTED from C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\url_launcher_android-6.0.17\android\src\main\AndroidManifest.xml
+
