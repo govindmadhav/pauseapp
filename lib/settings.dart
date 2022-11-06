@@ -4,3 +4,5 @@ class Settings {
   int rewardPoints;
   Settings({this.dailyHours = 6, this.fundAdded = 0, this.rewardPoints = 0});
 }
+
+
