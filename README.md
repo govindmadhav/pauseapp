@@ -22,3 +22,4 @@ Pause app helps to control screen time by locking the pocket money which will be
 ● Leading payment gateway  
 ● Phone usage tracker   
 ● Instant payouts of rewards into the bank using UPI
+
